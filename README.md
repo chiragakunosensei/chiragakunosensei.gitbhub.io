@@ -1,6 +1,8 @@
-# [Start Bootstrap - Blog Post](https://startbootstrap.com/template/blog-post/)
+# [The Ronin Retreat](https://startbootstrap.com/template/blog-post/)
 
-[Blog Post](https://startbootstrap.com/template/blog-post/) is a basic blog post HTML starter template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+I've lived alot of lives - I'm here to inspire and impart Wisdom
+
+Won't You Join Me?
 
 ## Preview
 
